@@ -1,0 +1,119 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(../public/imagemfundo.jpg);}
+
+.title{
+    font-size: 5.5rem;
+    color: #FFF;
+    animation: myTitle 1s;
+}
+
+@keyframes myTitle{
+    from{
+        transform: rotateX(90deg);
+    }
+    to{
+        transform: rotateX(0deg);
+    }
+}
+
+.containerInput{
+    background-color: #9999;
+    padding: 1.5rem;
+    margin: 3.4rem 0;
+    display: flex;
+    border-radius: 0.8rem;
+    box-shadow: 0.1rem 0.3rem 0.8rem rgba(0,0,0, 0.5);
+}
+
+.containerInput input{
+    background-color: transparent;
+    border: 0;
+    font-size: 20px;
+    color: #FFF;
+    outline: none;
+    margin-right: 8px;
+}
+
+.containerInput input::placeholder{
+    color: #F1f1f1;
+}
+
+.buttonSearch{
+    background-color: transparent;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+.buttonSearch:hover{
+    transform: scale(1.2);
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FFF;
+    width: 40rem;
+    border-radius: 0.8rem;
+}
+
+.main h2{
+    margin: 1rem 0;
+    font-size: 3.2rem;
+}
+
+.main span{
+    margin-bottom: 1.6rem;
+    font-weight: bold;
+}
+
+@media (max-width: 650px){
+    .title{
+        font-size: 50px;
+    }
+
+    .main h2{
+        font-size: 28px;
+    }
+
+    .main{
+        width: 80%;
+        min-height: 250px;
+    }
+}
+
+.buttonClear{
+    margin-bottom: 12px;
+    background-color: #ff3333;
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.errorBox {
+    color: white;
+    background-color: #ff3333;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    opacity: 1;
+    transition: opacity 0.5s ease-out;
+}
+  
+.errorBox.hide {
+    opacity: 0;
+}
