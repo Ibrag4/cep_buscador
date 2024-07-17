@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cep_buscador/static/css/main.64520da1.css",
+    "main.js": "/cep_buscador/static/js/main.9fceecf2.js",
+    "static/media/imagemfundo.jpg": "/cep_buscador/static/media/imagemfundo.22b10e8201cdc7f6825f.jpg",
+    "index.html": "/cep_buscador/index.html",
+    "main.64520da1.css.map": "/cep_buscador/static/css/main.64520da1.css.map",
+    "main.9fceecf2.js.map": "/cep_buscador/static/js/main.9fceecf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64520da1.css",
+    "static/js/main.9fceecf2.js"
+  ]
+}
