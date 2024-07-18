@@ -4,7 +4,7 @@ Um projeto desenvolvido com a finalidade de ajudar ao usuário encontrar informa
 
 
 visualização: https://ibrag4.github.io/cep_buscador/
-
+ <img width="25" src="/#">
 
 
 ## 💻 Informações sobre o projeto
@@ -33,7 +33,10 @@ $ npm run start
 # A aplicação pode ser aberta no servidor local (ex: http://localhost:3000)
 ```
 ---
+## API:
+https://viacep.com.br/
 
+---
 ## 🛠 Ferramentas
 
 #### **Website**  ([React](https://reactjs.org/)  +  [JavaScript](https://www.javascript.com/))
