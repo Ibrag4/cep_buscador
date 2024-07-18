@@ -15,11 +15,11 @@ Incluindo todas as validações necessárias para o acesso do usuário, contendo
 
 ---
 
-### 🧭 FrontEnd - Rodando a aplicação web 
+### 🧭 Rodando a aplicação web 
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:https://ibrag4.github.io/cep_buscador/
+$ git clone https://github.com/Ibrag4/cep_buscador.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd cep-buscador
@@ -30,7 +30,7 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run start
 
-# A aplicação pode ser aberta na porta:3000 - acesse http://localhost:3000 (ou na porta que for disponibilizada no CMD)
+# A aplicação pode ser aberta no servidor local (ex: http://localhost:3000)
 ```
 ---
 
