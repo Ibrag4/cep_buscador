@@ -53,6 +53,6 @@ Package.json: https://github.com/Ibrag4/cep_buscador/blob/main/package.json
 
 Ingrid Braga!
 
-Entre em contato:  [Linkedin!](https://www.linkedin.com/in/ingrid-b-aa4995194/)
+Entre em contato:  [Linkedin](https://www.linkedin.com/in/ingrid-b-aa4995194/)
 
 
