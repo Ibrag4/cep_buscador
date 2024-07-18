@@ -6,6 +6,7 @@ Um projeto desenvolvido com a finalidade de ajudar ao usuário encontrar informa
 visualização: https://ibrag4.github.io/cep_buscador/
 
 
+
 ## 💻 Informações sobre o projeto
 
 Projeto desenvolvido com o uso principal de React, Javascript, Html e Css. 
@@ -35,7 +36,7 @@ $ npm run start
 
 ## 🛠 Ferramentas
 
-#### **Website**  ([React](https://reactjs.org/)  +  [JavascriptScript](https://www.javascript.com/))
+#### **Website**  ([React](https://reactjs.org/)  +  [JavaScript](https://www.javascript.com/))
 
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 
