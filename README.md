@@ -4,7 +4,9 @@ Um projeto desenvolvido com a finalidade de ajudar ao usuário encontrar informa
 
 
 visualização: https://ibrag4.github.io/cep_buscador/
- <img width="25" src="/#">
+
+
+ <img width="1000" src="/public/cep-buscador-img.png">
 
 
 ## 💻 Informações sobre o projeto
